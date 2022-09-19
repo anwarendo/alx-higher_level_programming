@@ -10,4 +10,7 @@
   * [8-concat_edges.py](./8-concat_edges.py) &larr;
   * [9-easter_egg.py](./9-easter_egg.py) &larr;
   * [10-check_cycle.c](./10-check_cycle.c) &larr;
+  * [100-write.py](./100-write.py) &larr;
+  * [101-compile](./101-compile) &larr;
+  * [102-magic_calculation.py](./102-magic_calculation.py) &larr;
   
