@@ -13,6 +13,6 @@
 |[`8-uppercase.py`](./8-uppercase.py)			    |__prints a string in uppercase followed by a new line__ <ul><li>You can only use no more than 2 print functions with string format</li><li>You can only use one loop in your code</li><li>You are not allowed to import any module</li>  You are not allowed to use `str.upper()` and `str.isupper()`</li> </ul>|
 |[`9-print_last_digit.py`](./9-print_last_digit.py)	    |__prints the last digit of a number__ <ul><li>You are not allowed to import any module</li></ul> |
 |[`10-add.py`](./10-add.py)				    |__adds two integers and returns the result__ <ul><li>You are not allowed to import any module</li></ul> |
-|[`11-pow.py`](./11-pow.py)				    |__computes `a` to the `power of` `b` and return the value__ <ul><li>You are not allowed to import any module</li></ul> |
+|[`11-pow.py`](./11-pow.py)				    |__computes `a` to the `power of` `b` and returns the value__ <ul><li>You are not allowed to import any module</li></ul> |
 |[`12-fizzbuzz.py`](./12-fizzbuzz.py)			    |__prints the numbers from `1` to `100` separated by a space__ <ul><li>For multiples of `three` print `Fizz` instead of the number and for multiples of `five` print `Buzz`</li><li>For numbers which are multiples of both `three` and `five` print `FizzBuzz`</li><li>Each element should be followed by a `space`</li><li>You are not allowed to import any module</li></ul> |
 |[`13-insert_number.c`](./13-insert_number.c), [`lists.h`](./lists.h) |__inserts a number into a sorted singly linked list__ |
