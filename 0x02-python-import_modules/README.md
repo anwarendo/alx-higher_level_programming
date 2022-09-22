@@ -3,3 +3,4 @@
 * [`1-calculation.py`](./1-calculation.py) &larr; for task 1
 * [`2-args.py`](./2-args.py) &larr; for task 2
 * [`3-infinite_add.py`](./3-infinite_add.py) &larr; for task 3
+* [`4-hidden_discovery.py`](./4-hidden_discovery.py) &larr; for task 4
