@@ -6,3 +6,4 @@
 * [`4-hidden_discovery.py`](./4-hidden_discovery.py) &larr; for task 4
 * [`5-variable_load.py`](./5-variable_load.py) &larr; for task 5
 * [`100-my_calculator.py`](./100-my_calculator.py) &larr; for task 6
+* [`101-easy_print.py`](./101-easy_print.py) &larr; for task 7
