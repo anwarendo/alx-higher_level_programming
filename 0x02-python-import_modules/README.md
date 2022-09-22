@@ -8,3 +8,4 @@
 * [`100-my_calculator.py`](./100-my_calculator.py) &larr; for task 6
 * [`101-easy_print.py`](./101-easy_print.py) &larr; for task 7
 * [`102-magic_calculation.py`](./102-magic_calculation.py) &larr; for task 8
+* [`103-fast_alphabet.py`](./103-fast_alphabet.py) &larr; for task 9
