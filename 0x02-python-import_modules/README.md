@@ -5,3 +5,4 @@
 * [`3-infinite_add.py`](./3-infinite_add.py) &larr; for task 3
 * [`4-hidden_discovery.py`](./4-hidden_discovery.py) &larr; for task 4
 * [`5-variable_load.py`](./5-variable_load.py) &larr; for task 5
+* [`100-my_calculator.py`](./100-my_calculator.py) &larr; for task 6
