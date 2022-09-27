@@ -5,7 +5,7 @@
 * **Task 1**
   * [`1-element_at.py`](./1-element_at.py) &larr; retrieves an element from a list like in C
 * **Tast 2**
-  * [`2-replace_in_list.py`](./2-replace_in_list.py)
+  * [`2-replace_in_list.py`](./2-replace_in_list.py) &larr; replaces an element of a list at a specific position (like in C)
 * **Task 3**
   * [`3-print_reversed_list_integer.py`](./3-print_reversed_list_integer.py)
 * **Task 4**
