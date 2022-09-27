@@ -7,7 +7,7 @@
 * **Tast 2**
   * [`2-replace_in_list.py`](./2-replace_in_list.py) &larr; replaces an element of a list at a specific position (like in C)
 * **Task 3**
-  * [`3-print_reversed_list_integer.py`](./3-print_reversed_list_integer.py)
+  * [`3-print_reversed_list_integer.py`](./3-print_reversed_list_integer.py) &larr;  prints all integers of a list, in reverse order
 * **Task 4**
   * [`4-new_in_list.py`](./4-new_in_list.py)
 * **Task 5**
