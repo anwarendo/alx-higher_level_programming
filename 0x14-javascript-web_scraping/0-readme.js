@@ -1,6 +1,5 @@
-#!/usr/local/bin/node
+#!/usr/bin/node
 
-//nst request = require('request');
 const fs = require('fs');
 
 fs.readFile(process.argv[2], (err, data) => {
